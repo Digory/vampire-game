@@ -5,23 +5,6 @@ The game outputs a text representation of the dungeon, displaying vampire locati
 
 The player wins if they catch all the vampires before the torch battery runs out. If there are any left when it runs out then the player loses and is killed by the vampires.
 
-The below shows what the output looks like. The current number of moves left (15) is shown, the coordinates of the player and the vampires are next, and then the dungeon map.
+The attached jpg shows what the output looks like. The current number of moves left (15) is shown, the coordinates of the player and the vampires are next, and then the dungeon map.
 
-15
 
-@ 0 0
-v 2 2
-v 3 6
-v 1 4
-v 6 1
-v 1 2
-
-@--------
-------v---
--vv------
----------
--v-------
----------
----v-----
----------
----------
